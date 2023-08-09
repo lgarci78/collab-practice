@@ -1,0 +1,19 @@
+.row{
+    height: 855px;
+}
+
+.nav{
+    background-color: black;
+}
+
+.left{
+    background-color: orange;
+}
+
+.right{
+    background-color: purple;
+}
+
+.footer{
+    background-color: brown;
+}
