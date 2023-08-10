@@ -1,19 +1,40 @@
 .row{
-    height: 855px;
+    height: 450px;
+    justify-content: center;
+    
+}
+.center{
+    background-color: white;
+    margin-top: 50px;
+    
 }
 
-.nav{
-    background-color: black;
+.center img{
+    width:250px;
 }
 
-.left{
-    background-color: orange;
+.center p{
+    text-align: center;
 }
 
-.right{
-    background-color: purple;
-}
 
 .footer{
     background-color: brown;
 }
+
+.jumbotron{
+    text-align: center;
+}
+
+.jumbotron2{
+    text-align: center;
+}
+
+
+
+.jumbotron p a{
+    background-color: black;
+}
+
+
+
